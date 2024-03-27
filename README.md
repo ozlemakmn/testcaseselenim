@@ -1,18 +1,18 @@
-@pytest.fixture
+<h4>@pytest.fixture</h4>
 
 Test fonksiyonlarına ve diğer fixture'lerle birlikte kullanılarak test ortamını hazırlamak için kullanılır.
-@pytest.mark.xfail
+<h4>@pytest.mark.xfail</h4>
 
 Belirli bir testi atlamak için kullanılır.
-@pytest.parametrize
+<h4>@pytest.parametrize</h4>
 
 Bir test fonksiyonunu birden çok kez parametrelerle çalıştırmak için kullanılır.
-@pytest.mark.skip
+<h4>@pytest.mark.skip</h4>
 
 Belirli bir testi atlamak için kullanılır.
-@pytest.mark.timeout
+<h4>@pytest.mark.timeout</h4>
 
 Bir testin belirli bir süre içinde tamamlanmasını sağlar ve süre aşımı durumunda testi iptal eder.
-@pytest.mark.skipif
+<h4>@pytest.mark.skipif</h4>
 
 Bir ifade doğru olduğunda testin atlanmasını sağlar.
